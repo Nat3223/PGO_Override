@@ -25,6 +25,7 @@ public class Main {
         System.out.println("Risk summaries:");
         System.out.println(p1.getRiskSummary());
         System.out.println(p2.getRiskSummary());
+        System.out.println(p3.getRiskSummary());
 
         System.out.println();
 
